@@ -1,5 +1,3 @@
-## 📷 Foto da Placa
-
 <p align="center">
   <img src="PCB.png" alt="Foto da PCB montada" width="600"/>
 </p>
